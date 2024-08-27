@@ -2,6 +2,7 @@ Here’s a `README.md` file for the `Storage` smart contract project, including 
 
 ```markdown
 # Storage Smart Contract
+![image](https://github.com/user-attachments/assets/a92e40b3-ae8d-4438-8768-6f7137e97736)
 
 ## Vision
 
@@ -22,6 +23,7 @@ The flowchart below describes the core functions of the Storage contract:
 ![Flowchart](https://example.com/flowchart.png) <!-- Replace with actual URL or remove if not available -->
 
 ## Contract Address
+0xd38c4819ce8e88e3b80795e4f4bdbbe4cef16b5e
 
 The Storage smart contract can be deployed on any Ethereum-compatible network. Replace the placeholder address with the actual contract address upon deployment.
 
