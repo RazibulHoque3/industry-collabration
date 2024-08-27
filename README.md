@@ -3,6 +3,8 @@ Here’s a `README.md` file for the `Storage` smart contract project, including 
 ```markdown
 # Storage Smart Contract
 ![image](https://github.com/user-attachments/assets/a92e40b3-ae8d-4438-8768-6f7137e97736)
+![image](https://github.com/user-attachments/assets/ffd7fd25-1bd2-4551-8a11-f3a941e82dc7)
+
 
 ## Vision
 
